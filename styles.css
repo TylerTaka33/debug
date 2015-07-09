@@ -1,8 +1,14 @@
-body color:black;
-#oni 
+body{background-color:black;
+	}
+
+ 
+#one
+{
 	color:red;
 }
 
-.two 
+
+#two{
 	color:blue;
-}
+} 
+
